@@ -1,6 +1,4 @@
-Sure, here is your updated script with the `racon` process included:
 
-```bash
 #!/usr/bin/env nextflow
 
 /*
